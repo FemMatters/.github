@@ -61,12 +61,27 @@ Women-centric spaces where you're heard without being questioned
 </td>
 <td width="50%">
 
-### 🤍 Clean Design
+### 🤍 Aesthetic Design
 Minimal, powerful UX with no dark patterns or manipulation
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🔮 What’s Coming (When the Time Is Right)
+
+We are **not rushing products**. When we do build, it will be:
+
+- Women-first platforms
+    
+- Privacy-respecting systems
+    
+- Emotionally intelligent experiences
+    
+
+> We believe foundations matter more than features.
 
 ---
 
