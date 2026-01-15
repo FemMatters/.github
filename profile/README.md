@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://github.com/FemMatters/FemMatters/blob/main/GithubLogo.png?raw=true" 
+    src="https://github.com/FemMatters/.github/blob/main/GithubLogo.png?raw=true" 
     alt="FemMatters Logo" 
     width="180"
     style="border-radius: 50%; border: 3px solid #f2b6c1;"
