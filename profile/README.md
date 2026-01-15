@@ -7,187 +7,122 @@
   />
 </p>
 
-
-<h1 align="center">✨ FemMatters ✨</h1>
+<h1 align="center">✨ FemMatters</h1>
 
 <p align="center">
   <b>Tech with empathy. Spaces with safety. Voices with power.</b>
 </p>
 
 <p align="center">
-  🌸 Women-first • 🛡️ Privacy-focused • 🧠 Mental health aware • 🌍 Impact-driven
+  <img src="https://img.shields.io/badge/Women--First-FF69B4?style=for-the-badge" alt="Women-First"/>
+  <img src="https://img.shields.io/badge/Privacy--Focused-9370DB?style=for-the-badge" alt="Privacy-Focused"/>
+  <img src="https://img.shields.io/badge/Impact--Driven-48D1CC?style=for-the-badge" alt="Impact-Driven"/>
 </p>
 
 ---
 
-## 💫 What is FemMatters?
+## 🎯 The Problem
 
-**FemMatters** is a women-first digital initiative building safe, inclusive and emotionally intelligent platforms for women.
+The internet can be **hostile**, **judgmental**, and **unsafe** for women.
 
-We don’t build apps.  
-We build **safe spaces**.
+## 💡 Our Solution
 
-We don’t chase trends.  
-We create **impact**.
-
-We don’t do performative feminism.  
-We do **real protection, real support, real change.**
-
----
-
-## 🔥 Why FemMatters Exists
-
-Let’s be honest.
-
-The internet can be:
-- hostile  
-- judgmental  
-- unsafe  
-- emotionally exhausting for women  
-
-FemMatters exists because:
 > **Women deserve better digital spaces. Period.**
 
-Spaces where:
-- you don’t have to explain your pain
-- you don’t have to justify your boundaries
-- you don’t have to fear being attacked for speaking
+We don't build apps. We build **safe spaces**.  
+We don't chase trends. We create **impact**.  
+We don't do performative feminism. We do **real protection**.
 
 ---
 
-## 🎯 Our Mission
+## 🌸 What We're Building
 
-To design and develop digital platforms where women feel:
+<table>
+<tr>
+<td width="50%">
 
-- **Safe to speak**
-- **Free to exist**
-- **Heard without being questioned**
-- **Protected without being controlled**
+### 🛡️ Safety First
+Privacy-first social spaces with real boundaries and zero tolerance for toxicity
 
-No noise. No toxicity. No exploitation.
+</td>
+<td width="50%">
 
-Just clean, respectful, empowering spaces.
+### 🧠 Mental Health
+Emotionally intelligent platforms designed for women's wellbeing
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## 🌈 Our Vision
+### 🌈 Inclusive Communities
+Women-centric spaces where you're heard without being questioned
 
-We envision a digital world where women are not:
-- targeted
-- silenced
-- objectified
-- or dismissed
+</td>
+<td width="50%">
 
-But instead:
-- **respected**
-- **supported**
-- **empowered**
-- **protected**
+### 🤍 Clean Design
+Minimal, powerful UX with no dark patterns or manipulation
 
-Technology should heal.  
-Not harm.
-
----
-
-## 🚀 What We’re Building
-
-FemMatters focuses on:
-
-🌸 Women-centric communities  
-🧠 Mental health & emotional support platforms  
-🛡️ Privacy-first social spaces  
-🧩 Age-appropriate, safe content ecosystems  
-🤍 Inclusive platforms with real boundaries  
-
-Every feature we design goes through one filter:
-> **“Is this safe for a woman at her most vulnerable moment?”**
-
-If not, it doesn’t ship.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛡️ Our Non-Negotiables
+## 🔥 Our Philosophy
 
-- **Women-first, not women-only**
-- **Privacy > Popularity**
-- **Safety > Virality**
-- **Respect > Reach**
-- **Empathy > Engagement**
-- **Impact > Hype**
+```
+Every feature goes through one filter:
+"Is this safe for a woman at her most vulnerable moment?"
 
-We are not here to be loud.  
-We are here to be **meaningful.**
+If not, it doesn't ship.
+```
 
----
-
-## 🤍 What FemMatters is NOT
-
-- Not a man-hating platform  
-- Not a fake activist brand  
-- Not a trend-driven page  
-- Not a clout project  
-- Not a surface-level “feminism aesthetic”  
-
-We’re serious.  
-We’re intentional.  
-We’re here for the long run.
+**Our Non-Negotiables:**
+- Privacy > Popularity
+- Safety > Virality  
+- Respect > Reach
+- Impact > Hype
 
 ---
 
-## 🤝 Collaborate With Us
+## 🤝 Join the Movement
 
-We welcome:
-- Developers
-- Designers
-- Mental health advocates
-- Researchers
-- Creators with clean intent
+If you're a developer, designer, mental health advocate, or creator who genuinely cares about women's wellbeing and safety — **you belong here**. We're building something meaningful together, and we'd love to have you with us.
 
-If you care about women’s well-being — you belong here.
+**Connect with us and stay updated:**
 
----
+<p align="center">
+  <a href="https://femmatters.com">
+    <img src="https://github.com/FemMatters/.github/blob/main/GithubLogo.png?raw=true" alt="FemMatters Website" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/femmatters.official">
+    <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/social%20media/instagram/instagram.svg" alt="Instagram" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Femmatters_off">
+    <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/social%20media/x/x.svg" alt="X (Twitter)" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/fem-matters-82b508393/">
+    <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="50"/>
+  </a>
+</p>
 
-## 🧠 Tech Philosophy
+<br/>
 
-We build with:
-- Clean architecture
-- Scalable systems
-- Privacy-aware design
-- Minimal but powerful UX
-- Real-world usability
-
-No bloated features.  
-No dark patterns.  
-No manipulation.
-
-Just **honest tech.**
-
----
-
-## 📈 Status
-
-FemMatters is growing.
-Quietly. Intentionally. Powerfully.
-
-The mission is locked.
-The direction is clear.
-The impact is coming.
-
----
-
-## 🖋 Final Words
-
-FemMatters is not a project.
-
-It’s a **movement.**  
-It’s a **statement.**  
-It’s a **promise.**
-
-> **Women deserve better digital spaces.  
-So we’re building them.**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&text=Built%20with%20💗%20for%20Women&fontSize=20&fontColor=fff&animation=twinkling" alt="Footer Wave"/>
+</p>
 
 ---
 
 <p align="center">
-  🤍 Built with intent • Backed by empathy • Powered by purpose
+  <sub>Built with intent • Backed by empathy • Powered by purpose</sub>
+</p>
+
+<p align="center">
+  <i>"Women deserve better digital spaces. So we're building them."</i>
 </p>
